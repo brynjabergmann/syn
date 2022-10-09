@@ -1,0 +1,12 @@
+
+a:hover{
+    background-color: lightgray;
+}
+
+a:active{
+background-color: lightgray;
+}
+
+.navbar-nav  >  .active { 
+    background-color: lightgrey ; 
+}
